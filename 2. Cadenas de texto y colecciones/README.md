@@ -1,0 +1,1 @@
+El ejercicio 4 es un poco rarito porque es bastante improvisado y al hacer los últimos tuve que buscar en internet cómo funcionan los hashes y eso. No hay nada interesante que comentar.
